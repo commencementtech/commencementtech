@@ -1,0 +1,11 @@
+Android Purchase Code
+8a61dec5-45eb-4933-850f-bed5b37db843
+
+Android Secret
+850f-bed5b37db843
+
+IOS Purchase Code
+e51cc68b-fcaf-4d87-b69b-ddf68d71b862
+
+Secret Code
+850f-bed5b37db843
